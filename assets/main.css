@@ -95,7 +95,7 @@ th,td{
 /* Conference Title Logo */
 .title1{color: #FF5F1F; text-shadow: 1px 1px 3px #c0c0c0;font-family:'MuseoModerno'; left: 0px;} 
 .title2{color: #6A1B9A; text-shadow: 1px 1px 3px #c0c0c0;font-family:'MuseoModerno';left: 0px;} 
-.year{color: #505050; font-size:0.6em;font-weight:lighter;}
+.year{color: #505050; font-size:0.6em;font-weight:light;}
 
 /* Navigation Links (Home, Registration, etc) */
 table.navigation{width:800px;}
