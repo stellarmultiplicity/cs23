@@ -1,4 +1,4 @@
- <table class="sponsors">
+<table class="sponsors">
         <tr>
             <td class="sponsor">
                 <a href="https://matthewswayne.wordpress.com/about/">
@@ -18,6 +18,10 @@
                     <figcaption>"Ayush Moharana, Keele University"</figcaption>
                 </a>
             </td>
+        </tr>
+    </table>
+    
+    <table class="sponsors">
             <td class="sponsor">
                 <a href="https://matthewswayne.wordpress.com/about/">
                     <img src="assets/matthew.jpg" alt="Matthew Swayne">
@@ -36,10 +40,5 @@
                     <figcaption>"Ayush Moharana, Keele University"</figcaption>
                 </a>
             </td>
-
-
-
-
-            
         </tr>
     </table>
